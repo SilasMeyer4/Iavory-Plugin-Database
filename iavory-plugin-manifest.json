@@ -1,0 +1,20 @@
+﻿{
+  "Plugins": [
+    {
+      "Id": "MagicalDecoder.SilasMeyer",
+      "Name": "Magical Decoder",
+      "Description": "Magical Decoder for decoding magical messages.",
+      "Author": "Silas Meyer",
+      "Version": "1.0.0",
+      "DownloadLink": "https://example.com/plugin.zip"
+    },
+    {
+      "Id": "Loader.SilasMeyer",
+      "Name": "Loader",
+      "Description": "Provides loading of data in various formats.",
+      "Author": "Silas Meyer",
+      "Version": "1.0.0",
+      "DownloadLink": "https://example.com/another.zip"
+    }
+  ]
+}
