@@ -15,8 +15,17 @@
       "Author": "Silas Meyer",
       "Version": "1.0.0",
       "DownloadUrl": "https://raw.githubusercontent.com/SilasMeyer4/Iavory-Plugin-Database/master/Plugins/Loader.dll"
+    },
+    {
+      "Id": "GenericDatabaseManager.Iavory",
+      "Name": "GenericDatabaseManager",
+      "Description": "Generic Database Manager. Here you can create all kind of databases and entries. ",
+      "Author": "Silas Meyer",
+      "Version": "1.0.0",
+      "DownloadUrl": "https://raw.githubusercontent.com/SilasMeyer4/Iavory-Plugin-Database/master/Plugins/GenericDatabaseManager.dll"
     }
   ]
 
 }
+
 
