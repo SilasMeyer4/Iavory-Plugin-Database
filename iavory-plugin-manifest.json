@@ -52,8 +52,9 @@
           "Description": "Manage your Dungeons & Dragons database including items, monsters, and more.",
           "Author": "Silas Meyer",
           "Version": "1.0.0"
-        },
+        }
       ]
     }
   ]
 }
+
