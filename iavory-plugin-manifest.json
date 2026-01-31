@@ -27,6 +27,7 @@
   ],
   "Modules": [
     {
+      "Id": "DnD Pack.SilasMeyer"
       "Name": "DnD Pack",
       "Description": "Package including multiple DnD plugins",
       "DownloadUrl": "https://raw.githubusercontent.com/SilasMeyer4/Iavory-Plugin-Database/master/Plugins/DnDPackage.dll",
@@ -57,4 +58,5 @@
     }
   ]
 }
+
 
