@@ -13,7 +13,7 @@
       "Name": "Loader",
       "Description": "Provides loading of data in various formats.",
       "Author": "Silas Meyer",
-      "Version": "1.0.0",
+      "Version": "0.1.0",
       "DownloadUrl": "https://raw.githubusercontent.com/SilasMeyer4/Iavory-Plugin-Database/master/Plugins/Loader.dll"
     },
     {
@@ -21,7 +21,7 @@
       "Name": "GenericDatabaseManager",
       "Description": "Generic Database Manager. Here you can create all kind of databases and entries.",
       "Author": "Silas Meyer",
-      "Version": "1.0.0",
+      "Version": "0.1.0",
       "DownloadUrl": "https://raw.githubusercontent.com/SilasMeyer4/Iavory-Plugin-Database/master/Plugins/GenericDatabaseManager.dll"
     }
   ],
@@ -38,26 +38,27 @@
           "Name": "D&D Character Creator",
           "Description": "Create and customize Dungeons & Dragons characters.",
           "Author": "Silas Meyer",
-          "Version": "1.0.0"
+          "Version": "0.1.0"
         },
         {
           "Id": "DnDPack.LootManagerSM",
           "Name": "D&D Loot Manager",
           "Description": "Manage and generate loot for your Dungeons & Dragons games.",
           "Author": "Silas Meyer",
-          "Version": "1.0.0"
+          "Version": "0.1.0"
         },
         {
           "Id": "DnDPack.DatabaseSM",
           "Name": "D&D Database Manager",
           "Description": "Manage your Dungeons & Dragons database including items, monsters, and more.",
           "Author": "Silas Meyer",
-          "Version": "1.0.0"
+          "Version": "0.1.0"
         }
       ]
     }
   ]
 }
+
 
 
 
